@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "thu_quarto_website",
+    "section": "",
+    "text": "University of Toronto\nBachelor of Science in Economics and Statistics Expected: May, 2025 - CGPA: 3.5\n\nRelevant courses: Financial Economics I; Financial Economics II; Money, Banking, and Financial Market; Method of Data Analysis.\nCertifications & Training: Private Equity and Venture Capital - Università Bocconi\nCompetition: RCIF ACP stock pitch (3rd place)"
+  },
+  {
+    "objectID": "index.html#qmat-capital",
+    "href": "index.html#qmat-capital",
+    "title": "thu_quarto_website",
+    "section": "QMAT Capital",
+    "text": "QMAT Capital\nFinancial Analyst, Intern December, 2023– Present\n\nQMAT Capital is a quantitative hedge fund startup with AUM of $600K.\nConducting in-depth market research and evaluating indicators to generate investment ideas and build trading strategies.\nPerforming technical analysis using Trading view platform to identify support and resistant zones of stock prices’ movement to establish investment opportunities for trading options.\nImplementing effective hedging strategies using statistical models in trading options to mitigate risks of an investment"
+  },
+  {
+    "objectID": "index.html#rational-capital-investment-fund-rcif",
+    "href": "index.html#rational-capital-investment-fund-rcif",
+    "title": "thu_quarto_website",
+    "section": "Rational Capital Investment Fund (RCIF)",
+    "text": "Rational Capital Investment Fund (RCIF)\nAnalyst Candidate Program September, 2022– April, 2023\n\nParticipate in weekly discussions of case studies to gain insights of the market and build detailed thesis for potentially undervalued companies.\nPrepared in-depth investment reports on an up and coming fashion brand and a vitamin and supplement provider, analyzing the company’s operations, industry, competitive advantages, management, financials, and valuation\nPlaced third in annual RCIF stock pitch competition; pitched Jamieson Wellness to investors; built multi-approach valuation, detailed investment thesis, and presentation deck to support recommendation"
+  },
+  {
+    "objectID": "index.html#skule-financial-literacy-club",
+    "href": "index.html#skule-financial-literacy-club",
+    "title": "thu_quarto_website",
+    "section": "Skule Financial Literacy Club",
+    "text": "Skule Financial Literacy Club\nExternal Director September, 2022– April, 2023 - Worked with team of 10 people to execute effective sponsorship efforts by communicating club’s value to sponsors, securing approximately $700 for each event. - Secured top-tier financial consultants and bankers as motivational speakers for seminars and panels, leading to a 20% increase in attendance. - Assisted speakers and organizers in monthly educational financial events/seminars and proposed budgeting methods to optimize operational expenditure."
+  },
+  {
+    "objectID": "index.html#volunteer---i-hear-your-sound-project",
+    "href": "index.html#volunteer---i-hear-your-sound-project",
+    "title": "thu_quarto_website",
+    "section": "Volunteer - ‘I hear your sound’ Project",
+    "text": "Volunteer - ‘I hear your sound’ Project\nHead of event September, 2020 – January, 2021 - Secured sponsorship agreements with third parties, generating VND 20,000,000 in funding for a charity concert featuring the disabled band “Nang Moi”, contributing to their financial support and recognition. - Led and managed a team of 20 members to develop and execute innovative promotion strategies. - Implemented an efficient budget allocation system, ensuring that resources were distributed effectively between promotional activities and event coordination."
+  },
+  {
+    "objectID": "index.html#predicting-housing-prices",
+    "href": "index.html#predicting-housing-prices",
+    "title": "thu_quarto_website",
+    "section": "Predicting Housing Prices",
+    "text": "Predicting Housing Prices\n\nConducted an in-depth analysis of Seattle housing prices post the Great Recession, employing Python libraries such as pandas and matplotlib to create impactful visualizations.\nUtilized advanced web scraping techniques to gather external data, significantly enhancing analysis accuracy and comprehensiveness.\nDeveloped a robust regression model, providing in-depth market insights and guiding future pricing strategies"
+  },
+  {
+    "objectID": "index.html#empirical-analysis-of-capital-structures-impact-on-profitability-toronto-on",
+    "href": "index.html#empirical-analysis-of-capital-structures-impact-on-profitability-toronto-on",
+    "title": "thu_quarto_website",
+    "section": "Empirical Analysis of Capital Structure’s impact on Profitability Toronto, ON",
+    "text": "Empirical Analysis of Capital Structure’s impact on Profitability Toronto, ON\n\nConducted comprehensive analysis on debt-to-equity ratios and return on equity for U.S. tech companies.\nIdentified a statistically and economically significant relationship with a slope estimate of -0.112 (p-value: 0.001%), challenging the Modigliani-Miller Theorem.\nAdvised investors to prioritize companies with lower debt-to-equity ratios for superior returns"
+  }
+]
