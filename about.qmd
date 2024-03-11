@@ -1,9 +1,4 @@
 ---
-title: "About"
+title: "About Me"
 ---
-
-About this site
-
-```{r}
-1 + 1
-```
+I am a third-year undergraduate student at the University of Toronto. I am currently majoring in Economics and Statistics. I am passionate about the Capital Market and hope to contribute to maximizing returns on investment. I am currently interning at a hedge fund startup, specializing in market research and technical analysis. Additionally, during my time at Rational Capital Investment Fund( RCIF), I developed my fundamental analysis skills and company valuation skills. I was also placed third in the RCIF’s 2023 stock pitch where I got to deliver my investment idea in a team of 4. 
